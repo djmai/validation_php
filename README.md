@@ -19,17 +19,7 @@ Esta es una pequeña librería de validación de datos recibidos
 - [Comenzando 🚀](#Comenzando)
 - [Como usar 🔧](#Usar)
 - [Uso en HTML Formulario 📦](#HTML)
-  - [Actualizar Composer](#updateComposer)
-  - [Configurando Archivo Env](#fileEnv)
-  - [Ajustando Base de Datos](#AjustandoDB)
-  - [Ajustando carpetas 🔩](#Ajustando)
-- [Primer Inicio ✔️](#Start)
-- [Construido con 🛠️](#Construido)
-- [Contribuyendo 🖇️](#Contribuyendo)
-- [Wiki 📖](#Wiki)
-- [Versionado 📌](#Versionado)
 - [Autores ✒️](#Autores)
-- [Licencia 📄](#Licencia)
 - [Expresiones de Gratitud 🎁](#Gratitud)
 
 <a name="Comenzando" />
